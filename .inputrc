@@ -1,0 +1,3 @@
+set editing-mode neovim
+set bell-style none
+set completion-ignore-case on
