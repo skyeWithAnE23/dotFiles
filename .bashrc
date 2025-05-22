@@ -1,4 +1,4 @@
-alias vim='neovim'
+alias vim='nvim'
 alias update='sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y'
 alias citra='flatpak run org.citra_emu.citra'
 alias mgba='mgba-qt'
@@ -9,4 +9,4 @@ alias ..='cd ..'
 #save aliases
 source ~/.bashrc
 
-export EDITOR=neovim
+export EDITOR=nvim
