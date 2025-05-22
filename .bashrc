@@ -5,6 +5,7 @@ alias mgba='mgba-qt'
 alias yuzu='flatpak run org.yuzu_emu.yuzu'
 alias py = 'python3'
 alias ..='cd ..'
+alias c='clear'
 
 #save aliases
 source ~/.bashrc
