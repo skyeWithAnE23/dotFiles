@@ -4,6 +4,7 @@ alias citra='flatpak run org.citra_emu.citra'
 alias mgba='mgba-qt'
 alias yuzu='flatpak run org.yuzu_emu.yuzu'
 alias py = 'python3'
+alias ..='cd ..'
 
 #save aliases
 source ~/.bashrc
