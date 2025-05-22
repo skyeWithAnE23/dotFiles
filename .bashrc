@@ -4,4 +4,7 @@ alias citra='flatpak run org.citra_emu.citra'
 alias mgba='mgba-qt'
 alias yuzu='flatpak run org.yuzu_emu.yuzu'
 
+#save aliases
+source ~/.bashrc
+
 export EDITOR=neovim
