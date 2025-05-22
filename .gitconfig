@@ -1,0 +1,29 @@
+[user]
+  name = skyeWithAnE23
+  email = gavin.dunn2030@gmail.com
+
+[core]
+  editor = neovim
+  autocrlf = input
+
+[alias]
+  st = status
+  co = checkout
+  br = branch
+  c = commit
+  lg = log --oneline --graph --decorate
+
+[color]
+  ui = auto
+
+[push]
+  default = simple
+
+[fetch]
+  prune = true
+
+[diff]
+  tool = meld
+
+[merge]
+  tool = meld
