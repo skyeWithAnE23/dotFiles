@@ -3,7 +3,7 @@
   email = gavin.dunn2030@gmail.com
 
 [core]
-  editor = neovim
+  editor = nvim
   autocrlf = input
 
 [alias]
