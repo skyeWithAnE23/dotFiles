@@ -6,6 +6,7 @@ alias yuzu='flatpak run org.yuzu_emu.yuzu'
 alias py = 'python3'
 alias ..='cd ..'
 alias c='clear'
+alias inst='sudo apt install'
 
 #save aliases
 source ~/.bashrc
